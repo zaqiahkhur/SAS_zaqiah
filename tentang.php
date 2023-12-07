@@ -10,7 +10,9 @@
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
           <style>
             body{
-                background-image : url("img/tentang.jpg");
+                background-image: url("img/leri.jpg");
+                background-size: cover;
+                background-position: center;
             }
 
         </style>
@@ -25,26 +27,26 @@
                 </div>
             </div>
             <nav class="navbar navbar-light ">
-            <span class="navbar-brand mb-0 h1 text-dark ">Pancasila</span>
-                <ul class="nav justify-content-end">
-                    <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="home.php">HOME</a>
+            <span class="navbar-brand mb-0 h1 text-dark">Pancasila</span>
+            <ul class="nav justify-content-end">
+            <li class="nav-item">
+                        <a class="nav-link disabled text-dart" href="home.php">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="tentang.php">TENTANG</a>
+                        <a class="nav-link disabled text-dart" href="tentang.php">TENTANG</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="berita.php">BERITA</a>
+                        <a class="nav-link disabled text-dart" href="berita.php">BERITA</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="galeri.php">GALERI</a>
+                        <a class="nav-link disabled text-dart" href="galeri.php">TOKOH</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="kontak.php">KONTAK</a>
+                        <a class="nav-link disabled text-dart" href="kontak.php">KONTAK</a>
                     </li>
                 </ul>
             </nav>
-   <center><h2 class="mt-3">HARI KESAKTIAN PANCASILA</h2></center>
+   <center><h2 class="mt-3 text">HARI KESAKTIAN PANCASILA</h2></center>
     <div class="container">
         <div class="row">
             <div class="col-md-4 mt-3">
@@ -77,12 +79,12 @@
             </div>
             <div class="col-md-4 mt-3">
                 <h5>Isi Pancasila </h5>
-                <ol>
-                    <li>Ketuhana yang maha esa</li>
+                <ol> <li>Ketuhana yang maha esa</li>
                     <li>Kemanusian yang adil dan beradab</li>
                     <li>Persatuan Indonesia</li>
                     <li>Kerakyatan yang di pimpin oleh hikmat kebijaksaan dalam permusyawaratan perwakilan</li>
                     <li>Keadilan sosial bagi seluruh rakyat Indonesia</li>
+                   
                 </ol>
             </div>
         </div>

@@ -26,42 +26,42 @@
         </div>
     </div>
     <nav class="navbar navbar-light ">
-    <span class="navbar-brand mb-0 h1 text-dark ">Pancasila</span>
+    <span class="navbar-brand mb-0 h1 text-white ">Pancasila</span>
                 <ul class="nav justify-content-end">
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="home.php">HOME</a>
+                        <a class="nav-link disabled text-white" href="home.php">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="tentang.php">TENTANG</a>
+                        <a class="nav-link disabled text-white" href="tentang.php">TENTANG</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="berita.php">BERITA</a>
+                        <a class="nav-link disabled text-white" href="berita.php">BERITA</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="galeri.php">GALERI</a>
+                        <a class="nav-link disabled text-white" href="galeri.php">TOKOH</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="kontak.php">KONTAK</a>
+                        <a class="nav-link disabled text-white" href="kontak.php">KONTAK</a>
                     </li>
                 </ul>
             </nav>
     </div>
     <center>
-        <h2 class="mt-3">HARI KESAKTIAN PANCASILA</h2>
+        <h2 class="mt-3 text-white">HARI KESAKTIAN PANCASILA</h2>
     </center>
     <center>
         <img src="img/kesaktian.jpg" width="25%" alt="" class="mt-3">
     </center>
     <div class="container">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4 mt-3">
                 <p><strong>Tanggal 1 Oktober 2023 memperingati Hari Kesaktian Pancasila. </strong> Sebagai informasi, Hari Kesaktian
                     Pancasila diperingati
                     pada tanggal 1 Oktober setiap tahun untuk mengenang gugurnya para pahlawan dalam peristiwa
                     pemberontakan G30S/PKI
                     tanggal 30 September 1965 silam.</p>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 mt-3">
                 Tahun 2023 ini, diusung Tema Hari Kesaktian Pancasila 2023 adalah "Pancasila Pemersatu Bangsa Menuju
                 Indonesia Maju".
 
@@ -71,7 +71,7 @@
                 mereka dinobatkan
                 sebagai Pahlawan Revolusi.
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 mt-3">
                 <p>Terdapat tujuh tokoh yang terdiri dari enam jenderal dan satu perwira yang gugur dalam peristiwa G30S
                     PKI. Untuk
                     mengenang jasa mereka, akhirnya tujuh tokoh yang tewas ini diberi gelar Pahlawan Revolusi. Para

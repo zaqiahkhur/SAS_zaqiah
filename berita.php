@@ -26,26 +26,26 @@
     <nav class="navbar navbar-light ">
         <span class="navbar-brand mb-0 h1 text-dark ">Pancasila</span>
         <ul class="nav justify-content-end">
-            <li class="nav-item">
-                <a class="nav-link disabled text-dark" href="home.php">HOME</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled text-dark" href="tentang.php">TENTANG</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled text-dark" href="berita.php">BERITA</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled text-dark" href="galeri.php">GALERI</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled text-dark" href="kontak.php">KONTAK</a>
-            </li>
+        <li class="nav-item">
+                        <a class="nav-link disabled text-dart" href="home.php">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled text-dart" href="tentang.php">TENTANG</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled text-dart" href="berita.php">BERITA</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled text-dart" href="galeri.php">TOKOH</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled text-dart" href="kontak.php">KONTAK</a>
+                    </li>
         </ul>
     </nav>
     </div>
     <center>
-        <h2 class="mt-3">BERITA HARI KESAKTIAN PANCASILA</h2>
+        <h2 class="mt-3 text">BERITA HARI KESAKTIAN PANCASILA</h2>
     </center>
     <center>
         <img src="img/pancasila.jfif" width="30%" alt="" class="mt-3">

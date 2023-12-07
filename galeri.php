@@ -10,7 +10,9 @@
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <style>
         body {
-            background-image: url("img/galeri.jpg")
+            background-image: url("img/garis.jpg");
+            background-size: cover;
+                background-position: center;
         }
     </style>
     
@@ -25,28 +27,28 @@
                 </div>
             </div>
             <nav class="navbar navbar-light ">
-            <span class="navbar-brand mb-0 h1 text-dark ">Pancasila</span>
-                <ul class="nav justify-content-end">
+            <span class="navbar-brand mb-0 h1 text-dart ">Pancasila</span>
+            <ul class="nav justify-content-end">
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="home.php">HOME</a>
+                        <a class="nav-link disabled text-dart" href="home.php">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="tentang.php">TENTANG</a>
+                        <a class="nav-link disabled text-dart" href="tentang.php">TENTANG</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="berita.php">BERITA</a>
+                        <a class="nav-link disabled text-dart" href="berita.php">BERITA</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="galeri.php">GALERI</a>
+                        <a class="nav-link disabled text-dart" href="galeri.php">TOKOH</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled text-dark" href="kontak.php">KONTAK</a>
+                        <a class="nav-link disabled text-dart" href="kontak.php">KONTAK</a>
                     </li>
                 </ul>
             </nav>
        
-   <center><h2 class="mt-3">HARI KESAKTIAN PANCASILA</h2></center>
-   <center><p class="mt-3">Peringatan 1 Oktober Hari Kesaktian Pancasila, memang tak lepas dari Gerakan 30 September 1965 oleh PKI yang
+   <center><h2 class="mt-3 ">HARI KESAKTIAN PANCASILA</h2></center>
+   <center><p class="mt-3 ">Peringatan 1 Oktober Hari Kesaktian Pancasila, memang tak lepas dari Gerakan 30 September 1965 oleh PKI yang
     menyebabkan
     6 perwira tinggi dan 1 perwira menengah TNI AD gugur. Enam perwira tinggi dan satu perwira menengah TNI Angkatan
     Darat

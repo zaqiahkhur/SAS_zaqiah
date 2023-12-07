@@ -5,11 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <style>
-        body {
-            background-image: url("img/kontak.jpg")
-        }
-    </style>
 
 </head>
 <body>
@@ -26,7 +21,7 @@
                 <a class="nav-link disabled text-dark" href="berita.php">BERITA</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link disabled text-dark" href="galeri.php">GALERI</a>
+                <a class="nav-link disabled text-dark" href="galeri.php">TOKOH</a>
             </li>
                  <li class="nav-item">
                 <a class="nav-link disabled text-dark" href="kontak.php">KONTAK</a>
@@ -68,28 +63,35 @@
       $nama =$_POST['nm'];
       $kelas =$_POST['kelas'];
       $jurusan =$_POST['jurusan'];
-    //   $jumlah =$_POST['jml_barang'];
-    //   $diskon1 =$_POST['diskon'];
-    //   $total = $harga * $jumlah;
-    //   $diskon = ($diskon1/100)*$total;
-    //   $totalSetelahDiskon=$total-$diskon;
 
-      echo"<div class ='container'>";
-    //   echo"<h1>Jumlah yang harus di bayarkan  :</h1>";
-      echo"<h4>Nama  : $nama</h4>";
-      echo"<h4>Kelas: $kelas</h4>";
-      echo"<h4>Jurusan: $jurusan</h4>";
-    //   echo"<h4>Jumlah Barang: $jumlah</h4>";
-    //   echo"<h4>Diskon : $diskon1 %</h4>";
-    //   echo"<h4>Total pembayaran Setelah Diskon: Rp. ",number_format($totalSetelahDiskon), "</h4>";
-      echo"</div>";
-    }
     
     
     ?>
+     <div class="container">
 
+            <table class='table table-bordered'>
+                <thead>
+                    <tr>
+                        <th scope='col'>No</th>
+                        <th scope='col'>Nama</th>
+                        <th scope='col'>Kelas</th>
+                        <th scope='col'>Jurusan</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope='row'>1</th>
+                        <td><?php echo $nama ?></td>
+                        <td><?php echo $kelas ?></td>
+                        <td><?php echo $jurusan ?></td>
+                        
+                    </tr>
 
-</div>
+                </tbody>
+            </table>
 
+    </div>
+    <?php } ?>
+    </div>
 </body>
 </html>
